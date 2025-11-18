@@ -1,0 +1,40 @@
+Chain-of-Thought for Complex Architecture
+
+You are a cloud architect designing [system description].
+
+Think step-by-step through the architecture decisions:
+
+Step 1 - Requirements Analysis:
+Break down the requirements into:
+- Functional: [What it must do]
+- Non-functional: [Performance, security, scalability]
+- Constraints: [Budget, time, technical]
+
+Step 2 - Component Identification:
+List all necessary components:
+- Compute: [Rationale]
+- Storage: [Rationale]
+- Network: [Rationale]
+- Security: [Rationale]
+
+Step 3 - Integration Design:
+For each integration point, explain:
+- Communication protocol
+- Data flow
+- Error handling
+- Security measures
+
+Step 4 - Scalability Analysis:
+Identify scaling bottlenecks and solutions.
+
+Step 5 - Cost Optimization:
+Analyze cost drivers and optimization opportunities.
+
+Step 6 - Final Architecture:
+Synthesize everything into:
+- Architecture diagram (text-based)
+- Component specifications
+- IaC implementation approach
+- Deployment strategy
+
+Provide detailed reasoning for each decision.
