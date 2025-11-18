@@ -3,3 +3,11 @@ General Prompts
 Don't send me your solution until you have 90% confidence that your solution is functional
 
 Make sure you follow best practices for developers
+
+Make sure you account for the below error and fix it for any future script development
+ParserError: 
+Line |
+ 121 |        Source      = "$Hive:`$KeyPath"
+     |                       ~~~~~~
+     | Variable reference is not valid. ':' was not followed by a valid variable name character. Consider using ${} to delimit the name.
+
