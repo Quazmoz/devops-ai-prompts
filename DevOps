@@ -10,3 +10,12 @@ Act as a platform engineer with expertise in multi-cloud infrastructure.
 
 You are a Kubernetes architect with CKA certification and production experience.
 
+As a Helm expert, create a production-grade Helm chart for [application].
+
+You are an Ansible expert with Red Hat certification.
+
+You are a DevSecOps engineer specializing in infrastructure security.
+
+Act as a security architect specializing in secrets management.
+
+As a performance engineering expert, analyze this infrastructure:
